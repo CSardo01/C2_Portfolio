@@ -5,7 +5,7 @@
     "link": "https://csardo01.github.io/C2-Studio_Project-3/",
     "course": "Studio",
     "image": "project_images/project_3.jpeg",
-    "description": " 7 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Use New York City's Open Data to creataivly display a dataset."
   },
   {
     "name": "C2 Lab: Jason Data",
@@ -13,7 +13,7 @@
     "link": "https://csardo01.github.io/C2-Lab_Datasets/",
     "course": "Lab",
     "image": "project_images/json_data.jpeg",
-    "description": " 6 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Present at least 20 influential typefaces as data points in a JSON file format"
   },
   {
     "name": "C2 Studio: Project 2",
@@ -21,7 +21,7 @@
     "link": "https://c2-studio-project-2.glitch.me/",
     "course": "Studio",
     "image": "project_images/project_2.jpeg",
-    "description": "5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Create a website using Airtable API that displays a partners collection of items."
   },
   {
     "name": "C2 Lab: Film Strip",
@@ -29,7 +29,7 @@
     "link": "https://csardo01.github.io/C2-lab_Film-Strip/",
     "course": "Lab",
     "image": "project_images/film_strip.jpeg",
-    "description": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Create a film strip using CSS grid."
   },
   {
     "name": "C2 Lab: Media Tunnel",
@@ -37,7 +37,7 @@
     "link": "https://csardo01.github.io/C2-Lab_Media-Tunnel/",
     "course": "Lab",
     "image": "project_images/media_tunnel.jpeg",
-    "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Using Media queries create a playfully responisve website."
   },
   {
     "name": "C2 Studio: Project 1",
@@ -45,7 +45,7 @@
     "link": "https://csardo01.github.io/C2-Studio_Project-1/",
     "course": "Studio",
     "image": "project_images/project_1.jpeg",
-    "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Tell a story using 3rd party and external platforms such as google maps or yelp"
   },
   {
     "name": "C2 Lab: Visual Conversation",
@@ -53,6 +53,6 @@
     "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
     "course": "Lab",
     "image": "project_images/visual_conversation.jpeg",
-    "description": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Visual display dialoge from a movie scene."
   }
 ]
