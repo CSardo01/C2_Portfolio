@@ -163,46 +163,43 @@ p .highlight {
 }
 
 /* Project Button Styling */
-.project-btn {
-  text-align: right;
+a {
   display: block;
-  transition: all 400ms ease-in-out;
-  padding-bottom: 1rem;
+  width: fit-content;
 }
-
+a > .rule-horizontal {
+  margin-top: 0.5rem;
+  transform: scaleX(0);
+  opacity: 0;
+  transition: all 400ms ease-in-out;
+}
+a:hover > .rule-horizontal {
+  transform: scaleX(1);
+  opacity: 1;
+}
 .rule-horizontal {
   width: 100%;
   height: 1px;
   background-color: var(--dark-grey);
 }
-.project-btn > .rule-horizontal {
-  margin-top: 0.5rem;
-  transform: scaleX(0);
-  opacity: 0;
-  transform-origin: right;
+.project-btn {
+  width: auto;
+  text-align: right;
   transition: all 400ms ease-in-out;
+  padding-bottom: 1rem;
 }
-
+.project-btn > .rule-horizontal {
+  transform-origin: right;
+}
 .project-btn:hover {
   margin-right: 2rem;
 }
-.project-btn:hover > .rule-horizontal {
-  transform: scaleX(1);
-  opacity: 1;
-  transform-origin: right;
-}
+
 footer {
   position: relative;
   height: 25%;
-  box-shadow: var(--border);
 }
-footer a {
-  display: block;
-  width: 50%;
-  line-height: 1.5;
-}
-
-a:hover {
+footer a:hover {
   opacity: 50%;
 }
 .footer-content {
@@ -214,6 +211,7 @@ a:hover {
   top: 0rem;
   z-index: 1;
   transition: opacity 400ms ease-in-out;
+  box-shadow: var(--border);
 }
 
 .project-description-container {
@@ -225,6 +223,7 @@ a:hover {
   position: absolute;
   top: 0rem;
   z-index: -1;
+  box-shadow: var(--border);
 }
 .project-description {
   /* background-color: rgba(0, 0, 255, 0.713); */

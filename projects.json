@@ -2,7 +2,7 @@
   {
     "name": "C2 Studio: Project 3",
     "date": "5/11/2023",
-    "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
+    "link": "https://csardo01.github.io/C2-Studio_Project-3/",
     "course": "Studio",
     "image": "project_images/project_3.jpeg",
     "description": " 7 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -10,7 +10,7 @@
   {
     "name": "C2 Lab: Jason Data",
     "date": "4/20/2023",
-    "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
+    "link": "https://csardo01.github.io/C2-Lab_Datasets/",
     "course": "Lab",
     "image": "project_images/json_data.jpeg",
     "description": " 6 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -18,7 +18,7 @@
   {
     "name": "C2 Studio: Project 2",
     "date": "3/28/2023",
-    "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
+    "link": "https://c2-studio-project-2.glitch.me/",
     "course": "Studio",
     "image": "project_images/project_2.jpeg",
     "description": "5 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -26,7 +26,7 @@
   {
     "name": "C2 Lab: Film Strip",
     "date": "3/10/2023",
-    "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
+    "link": "https://csardo01.github.io/C2-lab_Film-Strip/",
     "course": "Lab",
     "image": "project_images/film_strip.jpeg",
     "description": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -34,7 +34,7 @@
   {
     "name": "C2 Lab: Media Tunnel",
     "date": "2/24/2023",
-    "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
+    "link": "https://csardo01.github.io/C2-Lab_Media-Tunnel/",
     "course": "Lab",
     "image": "project_images/media_tunnel.jpeg",
     "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -42,7 +42,7 @@
   {
     "name": "C2 Studio: Project 1",
     "date": "2/21/2023",
-    "link": "https://csardo01.github.io/C2-Lab_Visual-Conversation_feb17/",
+    "link": "https://csardo01.github.io/C2-Studio_Project-1/",
     "course": "Studio",
     "image": "project_images/project_1.jpeg",
     "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
