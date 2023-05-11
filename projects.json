@@ -54,5 +54,13 @@
     "course": "Lab",
     "image": "project_images/visual_conversation.jpeg",
     "description": "Visual display dialoge from a movie scene."
+  },
+  {
+    "name": "C2 Lab: Are.na Block",
+    "date": "2/03/2023",
+    "link": "https://chris-sardo---custom-arena-page.glitch.me",
+    "course": "Lab",
+    "image": "project_images/arena_block.jpg",
+    "description": "Reacrating an Are.na block to get familiar with the glitch as a coding enviroment"
   }
 ]
